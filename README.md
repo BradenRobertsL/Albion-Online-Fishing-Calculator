@@ -5,3 +5,5 @@ This tool takes the latest market prices from [The Albion Online Data Project](h
 The Albion Online Data Project is still in beta, If prices are shown as 0 this means that there is currently no updated market data for that fish.
 
 [Test Out The Tool Here](https://blukzen.itch.io/albion-online-fishing-calculator)
+
+![Screenshot](https://github.com/BradenRobertsL/Albion-Online-Fishing-Calculator/blob/master/images/screenshot.PNG)
