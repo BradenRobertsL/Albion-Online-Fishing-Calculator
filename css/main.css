@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#main {
+    padding-top: 20px;
+}
+
+.negative {
+    color: red;
+}
+
+.positive {
+    color: green;
+}
+
+.icon-image {
+    height: 100px;
+}
+
+.T7 {
+    color: gold;
+}
+
+.T6 {
+    color: orange;
+}
+
+.T5 {
+    color: red;
+}
+
+.T3 {
+    color: green;
+}
